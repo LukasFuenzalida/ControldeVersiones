@@ -14,4 +14,9 @@
         android:text="Hola GitHub 2021"
         tools:layout_editor_absoluteX="150dp"
         tools:layout_editor_absoluteY="317dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"></LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
